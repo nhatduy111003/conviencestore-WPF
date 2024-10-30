@@ -1,0 +1,17 @@
+E:\PRN-Assignment\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\PRN-Assignment\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\PRN-Assignment\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\PRN-Assignment\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\PRN-Assignment\Ass01Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+E:\PRN-Assignment\Ass01Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
