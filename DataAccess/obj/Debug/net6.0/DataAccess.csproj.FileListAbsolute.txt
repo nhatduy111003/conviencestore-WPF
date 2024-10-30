@@ -15,3 +15,4 @@ E:\PRN-Assignment\Ass01Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
 E:\PRN-Assignment\Ass01Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
 E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
 E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\PRN-Assignment\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.sourcelink.json

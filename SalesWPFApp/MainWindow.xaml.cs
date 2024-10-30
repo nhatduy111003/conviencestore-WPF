@@ -41,10 +41,10 @@ namespace SalesWPFApp
                 ManagerWindow iWindow = new ManagerWindow();
                 iWindow.Show();
             }
-            else
-            {
-                MessageBox.Show("Login Fail!");
-            }
+            //else
+            //{
+            //    MessageBox.Show("Login Fail!");
+            //}
         }
 
         private void CancelButton_Click(object sender, RoutedEventArgs e)

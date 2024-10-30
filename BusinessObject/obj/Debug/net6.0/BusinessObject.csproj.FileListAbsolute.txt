@@ -12,3 +12,4 @@ E:\PRN-Assignment\Ass01Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessO
 E:\PRN-Assignment\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
 E:\PRN-Assignment\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
 E:\PRN-Assignment\Ass01Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+E:\PRN-Assignment\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.sourcelink.json

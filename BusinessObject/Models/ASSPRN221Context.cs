@@ -154,7 +154,6 @@ namespace BusinessObject.Models
                 entity.ToTable("User");
 
                 entity.Property(e => e.Id).HasColumnName("id");
-
                 entity.Property(e => e.CreatedAt)
                     .HasColumnType("datetime")
                     .HasColumnName("created_at")

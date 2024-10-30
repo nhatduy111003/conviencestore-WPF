@@ -67,3 +67,4 @@ E:\PRN-Assignment\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\AdminWindow
 E:\PRN-Assignment\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\AdminWindow.g.cs
 E:\PRN-Assignment\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\ManagerWindow.g.cs
 E:\PRN-Assignment\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\ManagerWindow.baml
+E:\PRN-Assignment\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.sourcelink.json
